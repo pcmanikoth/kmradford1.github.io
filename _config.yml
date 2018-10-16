@@ -12,7 +12,7 @@ collections:
     title: Uploads
     output: true
   default:
-   - scope
-       type: "portfolio"
-      values:
-        Teaser Image:
+  - scope
+      type: "portfolio"
+     values:
+      Teaser Image:
