@@ -11,8 +11,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-  
- default:
+  default:
    - scope
        type: "portfolio"
       values:
