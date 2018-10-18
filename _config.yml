@@ -11,3 +11,10 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: portfolio
+  values:
+  Teaser Image:
+    
