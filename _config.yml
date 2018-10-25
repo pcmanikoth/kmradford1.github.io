@@ -2,6 +2,9 @@
 title: Kmradford1.Github.Io
 timezone: America/Los_Angeles
 collections:
+  layouts:
+    title: Layouts
+    output: true
   portfolio:
     title: Portfolio
     output: true
